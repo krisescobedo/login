@@ -1,2 +1,2 @@
 # login
-Lgin/Logout
+Login/Logout
